@@ -25,3 +25,7 @@ pip install pandas numpy scikit-learn streamlit
 Run the app:
 
 streamlit run app.py
+
+## App Preview
+
+![App Screenshot](screenshots/app_demo.png)
